@@ -1,7 +1,0 @@
-def nilai(n = 0):
-    if n <= 60:
-        print(f"nilai {n} tidak lulus")
-    elif n > 60 end n <=100:
-        print(f"nilai {n} lulus")
-    else:
-        print(f"nilai {n} tidak diketahui")
